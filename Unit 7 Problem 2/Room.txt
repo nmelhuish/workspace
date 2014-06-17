@@ -1,0 +1,3 @@
+The room color is: White
+The floor type is: carpeting
+The number of windows is: 3
