@@ -10,7 +10,10 @@ import java.lang.reflect.Array;
 
 
 public class Fraction_Driver {
-
+/**
+ * 
+ * @param args
+ */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
@@ -45,7 +48,7 @@ public class Fraction_Driver {
 			objInput = new ObjectInputStream(inFile);
 			Object obj;
 			
-			
+//			Runs all the objects through the loop and writes them all a the same time
 			while(inFile.available() > 0) {
 		
 				

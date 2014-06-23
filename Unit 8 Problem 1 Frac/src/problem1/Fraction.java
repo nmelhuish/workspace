@@ -12,6 +12,11 @@ public class Fraction implements Serializable {
 		this.slash = '/';
 		// TODO Auto-generated constructor stub
 	}
+	/**
+	 * to do
+	 * @param numerator
+	 * @param denominator
+	 */
 
 	public Fraction(int numerator, int denominator) {
 		super();
